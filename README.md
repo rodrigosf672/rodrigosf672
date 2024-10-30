@@ -33,8 +33,7 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 
 ## Get in Touch
 
-- 📫 **Email**: [rodrigosf672@gmail.com](mailto:rodrigosf672@gmail.com)  
-- 🌐 **GitHub**: [rodrigosf672](https://github.com/rodrigosf672)
+- **Email**: [rodrigosf672@gmail.com](mailto:rodrigosf672@gmail.com)
 
 ---
 
