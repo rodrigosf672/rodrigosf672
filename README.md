@@ -31,6 +31,16 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 
 ---
 
+## 🌐 Recent Apps
+
+[![PA Cities Trivia App](https://img.shields.io/badge/PA%20Cities%20Trivia%20App-Play-blue?style=for-the-badge&logo=react)](https://rodrigosf672.github.io/pa-cities-trivia-react-app/) 
+A fun trivia app to test your knowledge of Pennsylvania's cities, built with React!
+
+[![3D Cube and Spheres Visualization](https://img.shields.io/badge/3D%20Cube%20and%20Spheres-Explore-orange?style=for-the-badge&logo=three.js)](https://rodrigosf672.github.io/3D-Cube-and-Spheres/) 
+Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three Fiber!
+
+---
+
 ## Get in Touch
 
 - **LinkedIn**: [rsf309](https://www.linkedin.com/in/rsf309/)
