@@ -33,8 +33,9 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 
 ## Get in Touch
 
-- **Email**: [rodrigosf672@gmail.com](mailto:rodrigosf672@gmail.com)
 - **LinkedIn**: [rsf309](https://www.linkedin.com/in/rsf309/)
+- **Instagram**: [rodrigof100](https://www.instagram.com/rodrigof100/)
+- **Email**: [rodrigosf672@gmail.com](mailto:rodrigosf672@gmail.com)
 
 ---
 
