@@ -12,8 +12,8 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 
 - 🌎 From **Salvador, Brazil**, currently living in Pennsylvania
 - 🎓 **Education**  
-  - B.Sc. in Chemistry with minors in Applied Math and Arabic - **NYU Abu Dhabi**  
-  - M.Sc. in Analytical Chemistry - **University of Pittsburgh**
+  - B.Sc. in Chemistry with minors in Applied Math and Arabic - NYU Abu Dhabi
+  - M.Sc. in Analytical Chemistry - University of Pittsburgh
 
 - 🌐 **Languages**: Portuguese, English, Spanish, Arabic
 - 💻 **Programming Languages**: Python, R, JavaScript (React)
