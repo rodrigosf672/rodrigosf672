@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rodrigo!
 
-🧪 **Chemist turned Software Quality Engineer at [TBD]**  
+🧪 **Chemist turned Software Quality Engineer at Posit PBC**  
 👨‍💻 **Focused on enhancing software reliability, performance, and user experience**  
 📊 **Passionate about using statistics and data to understand & improve the world**
 
@@ -17,8 +17,6 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 
 - 🌐 **Languages**: Portuguese, English, Spanish, Arabic
 - 💻 **Programming Languages**: Python, R, JavaScript (React)
-
-- 📈 **What I Do**: At [TBD], I focus on usability testing, performance testing, I18N/L10N, and user experience. My background in science fuels my passion for data, which I use to understand and elevate software quality.
 
 ---
 
