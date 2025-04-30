@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rodrigo!
 
-🧪 **Chemist turned Software Quality Engineer at Posit PBC**  
+🧪 **QA Engineer at Posit PBC**  
 👨‍💻 **Focused on enhancing software reliability, performance, and user experience**  
 📊 **Passionate about using statistics and data to understand & improve the world**
 
