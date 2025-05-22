@@ -39,7 +39,23 @@ Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three 
 
 ---
 
-## Get in Touch
+## 🎥 Conference Talks
+
+I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of two of my previous talks.
+
+### PyOhio 2024 – [Talk Description](https://www.pyohio.org/2024/program/talks/signal-processing-in-electrochemistry-with-python-applications/) - [GitHub Repo](https://github.com/rodrigosf672/PyOhio2024-RodrigoSilvaFerreira) 
+
+[![Watch PyOhio 2024 Talk](https://img.youtube.com/vi/7UPzG0HhjDE/0.jpg)](https://www.youtube.com/watch?v=7UPzG0HhjDE)
+
+---
+
+### PyTexas 2025 – [Talk Description](https://www.pytexas.org/2025/schedule/talks/#signal-processing-in-electrochemistry-with-python-applications-to-the-us-opioids-crisis) - [GitHub Repo](https://github.com/rodrigosf672/PyTexas2025-RodrigoSilvaFerreira)
+
+[![Watch PyTexas 2025 Talk](https://img.youtube.com/vi/AZkYrvVoJ4A/0.jpg)](https://www.youtube.com/watch?v=AZkYrvVoJ4A)
+
+---
+
+## 🤝 Get in Touch
 
 - **LinkedIn**: [rsf309](https://www.linkedin.com/in/rsf309/)
 - **Instagram**: [rodrigof100](https://www.instagram.com/rodrigof100/)
@@ -47,8 +63,10 @@ Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three 
 
 ---
 
-## Fun Fact
+## 🤗 Fun Fact
 
 When I'm not debugging, you might find me dancing salsa/bachata 🕺 or diving into new projects in Python 🐍 or React ⚛️.
 
 Looking forward to connecting with other like-minded software and data enthusiasts here! 💻📈
+
+
