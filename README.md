@@ -43,6 +43,10 @@ Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three 
 
 I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of two of my previous talks.
 
+### PyCon US 2025 (Charlas) - [Talk Description (in Spanish)](https://us.pycon.org/2025/schedule/presentation/15/) - [GitHub Repo](https://github.com/rodrigosf672/braceros-pycon2025)
+
+[![Watch PyCon US 2025 Talk](https://img.youtube.com/vi/JiS23xPAACc/0.jpg)](https://www.youtube.com/watch?v=JiS23xPAACc)
+
 ### PyOhio 2024 – [Talk Description](https://www.pyohio.org/2024/program/talks/signal-processing-in-electrochemistry-with-python-applications/) - [GitHub Repo](https://github.com/rodrigosf672/PyOhio2024-RodrigoSilvaFerreira) 
 
 [![Watch PyOhio 2024 Talk](https://img.youtube.com/vi/7UPzG0HhjDE/0.jpg)](https://www.youtube.com/watch?v=7UPzG0HhjDE)
