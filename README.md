@@ -46,10 +46,6 @@ Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three 
 
 I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of some of my previous talks.
 
-## 🎥 Conference Talks
-
-I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of some of my previous talks.
-
 <table>
   <tr>
     <td align="center">
