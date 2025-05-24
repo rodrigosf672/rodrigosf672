@@ -32,10 +32,10 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 ## 🌐 Recent Apps
 
 [![Bracero History Archive App](https://img.shields.io/badge/Bracero%20App-Launch-green?style=for-the-badge&logo=posit)](https://rodrigosf672-braceros-pycon2025.share.connect.posit.cloud)
-A Shiny app exploring the oral history of Bracero workers through quotes by topics and interviewees. 
+Shiny app exploring the oral history of Bracero workers through quotes by topics and interviewees. 
 
 [![PA Cities Trivia App](https://img.shields.io/badge/PA%20Cities%20Trivia%20App-Play-blue?style=for-the-badge&logo=react)](https://rodrigosf672.github.io/pa-cities-trivia-react-app/) 
-A fun trivia app to test your knowledge of Pennsylvania's cities, built with React!
+Fun trivia app to test your knowledge of Pennsylvania's cities, built with React!
 
 [![3D Cube and Spheres Visualization](https://img.shields.io/badge/3D%20Cube%20and%20Spheres-Explore-orange?style=for-the-badge&logo=three.js)](https://rodrigosf672.github.io/3D-Cube-and-Spheres/) 
 Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three Fiber!
