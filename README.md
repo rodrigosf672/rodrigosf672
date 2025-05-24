@@ -46,19 +46,40 @@ Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three 
 
 I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of some of my previous talks.
 
-### PyCon US 2025 (Charlas) - [Talk Description (in Spanish)](https://us.pycon.org/2025/schedule/presentation/15/) - [GitHub Repo](https://github.com/rodrigosf672/braceros-pycon2025)
+## 🎥 Conference Talks
 
-[![Watch PyCon US 2025 Talk](https://img.youtube.com/vi/JiS23xPAACc/0.jpg)](https://www.youtube.com/watch?v=JiS23xPAACc)
+I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of some of my previous talks.
 
-### PyOhio 2024 – [Talk Description](https://www.pyohio.org/2024/program/talks/signal-processing-in-electrochemistry-with-python-applications/) - [GitHub Repo](https://github.com/rodrigosf672/PyOhio2024-RodrigoSilvaFerreira) 
+<table>
+  <tr>
+    <td align="center">
+      <b>PyCon US 2025 (Charlas)</b><br/>
+      <a href="https://us.pycon.org/2025/schedule/presentation/15/">Talk Description (in Spanish)</a> | 
+      <a href="https://github.com/rodrigosf672/braceros-pycon2025">GitHub Repo</a><br/>
+      <a href="https://www.youtube.com/watch?v=JiS23xPAACc">
+        <img src="https://img.youtube.com/vi/JiS23xPAACc/0.jpg" width="310"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>PyOhio 2024</b><br/>
+      <a href="https://www.pyohio.org/2024/program/talks/signal-processing-in-electrochemistry-with-python-applications/">Talk Description</a> | 
+      <a href="https://github.com/rodrigosf672/PyOhio2024-RodrigoSilvaFerreira">GitHub Repo</a><br/>
+      <a href="https://www.youtube.com/watch?v=7UPzG0HhjDE">
+        <img src="https://img.youtube.com/vi/7UPzG0HhjDE/0.jpg" width="310"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>PyTexas 2025</b><br/>
+      <a href="https://www.pytexas.org/2025/schedule/talks/#signal-processing-in-electrochemistry-with-python-applications-to-the-us-opioids-crisis">Talk Description</a> | 
+      <a href="https://github.com/rodrigosf672/PyTexas2025-RodrigoSilvaFerreira">GitHub Repo</a><br/>
+      <a href="https://www.youtube.com/watch?v=AZkYrvVoJ4A">
+        <img src="https://img.youtube.com/vi/AZkYrvVoJ4A/0.jpg" width="310"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Watch PyOhio 2024 Talk](https://img.youtube.com/vi/7UPzG0HhjDE/0.jpg)](https://www.youtube.com/watch?v=7UPzG0HhjDE)
 
----
-
-### PyTexas 2025 – [Talk Description](https://www.pytexas.org/2025/schedule/talks/#signal-processing-in-electrochemistry-with-python-applications-to-the-us-opioids-crisis) - [GitHub Repo](https://github.com/rodrigosf672/PyTexas2025-RodrigoSilvaFerreira)
-
-[![Watch PyTexas 2025 Talk](https://img.youtube.com/vi/AZkYrvVoJ4A/0.jpg)](https://www.youtube.com/watch?v=AZkYrvVoJ4A)
 
 ---
 
