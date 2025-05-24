@@ -57,7 +57,7 @@ I have spoken at different events across the United States, as I enjoy connectin
       <a href="https://us.pycon.org/2025/schedule/presentation/15/">Talk Description (in Spanish)</a> | 
       <a href="https://github.com/rodrigosf672/braceros-pycon2025">GitHub Repo</a><br/>
       <a href="https://www.youtube.com/watch?v=JiS23xPAACc">
-        <img src="https://img.youtube.com/vi/JiS23xPAACc/0.jpg" width="310"/>
+        <img src="https://img.youtube.com/vi/JiS23xPAACc/0.jpg" width="305"/>
       </a>
     </td>
     <td align="center">
@@ -65,7 +65,7 @@ I have spoken at different events across the United States, as I enjoy connectin
       <a href="https://www.pyohio.org/2024/program/talks/signal-processing-in-electrochemistry-with-python-applications/">Talk Description</a> | 
       <a href="https://github.com/rodrigosf672/PyOhio2024-RodrigoSilvaFerreira">GitHub Repo</a><br/>
       <a href="https://www.youtube.com/watch?v=7UPzG0HhjDE">
-        <img src="https://img.youtube.com/vi/7UPzG0HhjDE/0.jpg" width="310"/>
+        <img src="https://img.youtube.com/vi/7UPzG0HhjDE/0.jpg" width="305"/>
       </a>
     </td>
     <td align="center">
@@ -73,7 +73,7 @@ I have spoken at different events across the United States, as I enjoy connectin
       <a href="https://www.pytexas.org/2025/schedule/talks/#signal-processing-in-electrochemistry-with-python-applications-to-the-us-opioids-crisis">Talk Description</a> | 
       <a href="https://github.com/rodrigosf672/PyTexas2025-RodrigoSilvaFerreira">GitHub Repo</a><br/>
       <a href="https://www.youtube.com/watch?v=AZkYrvVoJ4A">
-        <img src="https://img.youtube.com/vi/AZkYrvVoJ4A/0.jpg" width="310"/>
+        <img src="https://img.youtube.com/vi/AZkYrvVoJ4A/0.jpg" width="305"/>
       </a>
     </td>
   </tr>
