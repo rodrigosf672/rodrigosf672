@@ -41,7 +41,7 @@ Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three 
 
 ## 🎥 Conference Talks
 
-I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of two of my previous talks.
+I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of some of my previous talks.
 
 ### PyCon US 2025 (Charlas) - [Talk Description (in Spanish)](https://us.pycon.org/2025/schedule/presentation/15/) - [GitHub Repo](https://github.com/rodrigosf672/braceros-pycon2025)
 
