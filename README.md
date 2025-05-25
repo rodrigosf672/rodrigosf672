@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes to test cases, my journey has brought me from the lab to the tech space, where I’m dedicated to making software better, faster, and more reliable.
+I’m a chemist navigating the world of software. From test tubes to test cases, my journey has brought me from the lab to the tech space, where I’m dedicated to making software better, faster, and more reliable.
 
 - From **Salvador, Brazil**, currently living in Pennsylvania
 - **Education**  
