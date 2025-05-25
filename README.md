@@ -18,16 +18,12 @@ Hey! I’m Rodrigo, a chemist navigating the world of software. From test tubes 
 - **Languages**: Portuguese, English, Spanish, Arabic
 - **Programming Languages**: Python, R, JavaScript (React)
 
----
-
 ## Interests
 
 - Exploring data for insights and improvements
 - Building resilient, user-friendly applications
 - Automation in testing and workflow optimization
 - Contributing to open-source projects and learning from the community
-
----
 
 ## Recent Apps
 
@@ -39,8 +35,6 @@ Fun trivia app to test your knowledge of Pennsylvania's cities, built with React
 
 [![3D Cube and Spheres Visualization](https://img.shields.io/badge/3D%20Cube%20and%20Spheres-Explore-orange?style=for-the-badge&logo=three.js)](https://rodrigosf672.github.io/3D-Cube-and-Spheres/) 
 Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three Fiber!
-
----
 
 ## Conference Talks
 
@@ -75,22 +69,8 @@ I have spoken at different events across the United States, as I enjoy connectin
   </tr>
 </table>
 
-
-
----
-
 ## Get in Touch
 
 - **LinkedIn**: [rsf309](https://www.linkedin.com/in/rsf309/)
 - **Instagram**: [rodrigof100](https://www.instagram.com/rodrigof100/)
 - **Email**: [rodrigosf672@gmail.com](mailto:rodrigosf672@gmail.com)
-
----
-
-## 🤗 Fun Fact
-
-When I'm not debugging, you might find me dancing salsa/bachata 🕺 or diving into new projects in Python 🐍 or React ⚛️.
-
-Looking forward to connecting with other like-minded software and data enthusiasts here! 💻📈
-
-
