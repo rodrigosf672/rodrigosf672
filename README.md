@@ -36,6 +36,10 @@ Fun trivia app to test your knowledge of Pennsylvania's cities, built with React
 [![3D Cube and Spheres Visualization](https://img.shields.io/badge/3D%20Cube%20and%20Spheres-Explore-orange?style=for-the-badge&logo=three.js)](https://rodrigosf672.github.io/3D-Cube-and-Spheres/) 
 Interactive 3D visualizations of 3x3x3 cube and spheres, built with React Three Fiber!
 
+## Peer-Reviewed Publications
+
+A bit unrelated to what I currently do, but I conducted some research in the fields of crystallography, materials science, and analytical chemistry. If you're interested, you can find my academic publications on my [Google Scholar profile](https://scholar.google.com/citations?user=FoA5dgMAAAAJ).
+
 ## Conference Talks
 
 I have spoken at different events across the United States, as I enjoy connecting with other tech, data, and science professionals. Please find below videos of some of my previous talks.
