@@ -2,7 +2,7 @@
 
 - QA Engineer at Posit PBC
 - Focused on enhancing software reliability, performance, and user experience
--  Passionate about using statistics and data to understand and improve the world
+- Passionate about using statistics and data to understand and improve the world
 
 ---
 
@@ -68,6 +68,14 @@ I have spoken at different events across the United States, as I enjoy connectin
       <a href="https://github.com/rodrigosf672/PyTexas2025-RodrigoSilvaFerreira">GitHub Repo</a><br/>
       <a href="https://www.youtube.com/watch?v=AZkYrvVoJ4A">
         <img src="https://img.youtube.com/vi/AZkYrvVoJ4A/0.jpg" width="305"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>PyOhio 2025</b><br/>
+      <a href="https://www.pyohio.org/2025/program/talks/from-fortran-to-python/">Talk Description</a><br/>
+      <a href="https://github.com/rodrigosf672/pyohio2025-from_fortran_to_python">GitHub Repo</a><br/>
+      <a href="https://www.youtube.com/watch?v=qvLZpdb_XqA">
+        <img src="https://img.youtube.com/vi/qvLZpdb_XqA/0.jpg" width="305"/>
       </a>
     </td>
   </tr>
