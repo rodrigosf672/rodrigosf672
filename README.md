@@ -27,6 +27,9 @@ I’m a chemist navigating the world of software. From test tubes to test cases,
 
 ## Recent Apps
 
+[![Pokémon Battle App](https://img.shields.io/badge/Pokémon%20Battle-Play-red?style=for-the-badge&logo=pokemon)](https://pokemon-simulator-pyscript.netlify.app/)
+Browser-based Pokémon battle simulator in PyScript, with real dataset collected from PokéAPI.
+
 [![Bracero History Archive App](https://img.shields.io/badge/Bracero%20App-Launch-green?style=for-the-badge&logo=posit)](https://rodrigosf672-braceros-pycon2025.share.connect.posit.cloud)
 Shiny app exploring the oral history of Bracero workers through quotes by topics and interviewees. 
 
