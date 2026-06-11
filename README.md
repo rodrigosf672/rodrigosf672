@@ -16,7 +16,7 @@ I’m a chemist navigating the world of software. From test tubes to test cases,
   - M.Sc. in Analytical Chemistry - University of Pittsburgh
 
 - **Languages**: Portuguese, English, Spanish, Arabic
-- **Programming Languages**: Python, R, JavaScript (React)
+- **Programming Languages**: Python, TypeScript, JavaScript (React), and a bit of R.
 
 ## Interests
 
