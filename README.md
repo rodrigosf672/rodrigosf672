@@ -1,9 +1,5 @@
 # Hi there 👋 I'm Rodrigo!
 
-Developer Tooling | Open Source | Python | Data Science | Developer Relations | Quality Assurance | Test Infrastructure | Scientific Computing | Jupyter Notebooks
-
----
-
 ## About Me
 
 I’m a chemist navigating the world of software. From test tubes to test cases, my journey has brought me from the lab to the tech space, where I’m dedicated to making software better, faster, and more reliable.
