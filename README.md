@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Rodrigo!
 
-- QA Engineer at Posit PBC
-- Focused on enhancing software reliability, performance, and user experience
-- Passionate about using statistics and data to understand and improve the world
+Developer Tooling | Open Source | Python | Data Science | Developer Relations | Quality Assurance | Test Infrastructure | Scientific Computing | Jupyter Notebooks
 
 ---
 
